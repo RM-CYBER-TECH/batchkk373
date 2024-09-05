@@ -4,7 +4,7 @@ body {
 }
 
 .background-image {
-    background: url('http://kk373.rf.gd/jetking.jpeg') no-repeat center center fixed;
+    background: url('https://raw.githubusercontent.com/RM-CYBER-TECH/batchkk373/main/jetking.jpeg') no-repeat center center fixed;
     background-size: cover;
     height: 100vh;
     display: flex;
